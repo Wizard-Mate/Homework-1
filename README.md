@@ -1,6 +1,6 @@
 # Homework-1 - HTML, CSS and Git: Code Refactor
 
-My goal in this project was to develop my skills by improving existing code without changing how it functions. This was guided by the following
+My goal in this project was to develop my skills by improving existing code without changing how it functions. This was guided by the following - 
 
 # User Story:
 
@@ -41,6 +41,15 @@ https://wizard-mate.github.io/Homework-1/
 1. Screenshot of my completed HTML and CSS documents side by side.
 (./assets/images/HTML-CSS-Image.png)
 
+```md
+    ![Screenshot of my completed HTML and CSS documents side by side.](assets/images/HTML-CSS-Image.png)
+    ```
+
 2. Screenshot of the Website deployed as a GitHub Page.
 (./assets/images/Deployed-Website.png.png)
+
+```md
+    ![Screenshot of the Website deployed as a GitHub Page.](assets/images/Deployed-Website.png)
+    ```
+
 
