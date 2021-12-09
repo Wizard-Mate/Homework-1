@@ -39,9 +39,9 @@ https://wizard-mate.github.io/Homework-1/
 # Screenshots:
 
 1. Screenshot of my completed HTML and CSS documents side by side.
-(./assets/images/HTML-CSS-Image.png)
+
+![Screenshot of my completed HTML and CSS documents side by side.](/assets/images/HTML-CSS-Image.png?raw=true "HTML CSS")
 
 2. Screenshot of the Website deployed as a GitHub Page.
-(./assets/images/Deployed-Website.png.png)
 
 ![Screenshot of the Website deployed as a GitHub Page.](/assets/images/Deployed-Website.png?raw=true "Deployed")
