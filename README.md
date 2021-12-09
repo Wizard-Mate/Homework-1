@@ -31,6 +31,7 @@ THEN I find a concise, descriptive title.
 5. Rearranged CSS document into sections that correspond with HTML doc to allow ease of future editing.
 6. Changed footer to a h4 tag to facilitate standard sequential order. Due to .footer class in CSS this did not modify the look of the webpage.
 7. I added a descriptive title - Horiseon Social Solution Services.
+8. Condensed the 6 CSS classes from Content & Benefits section into 2 classes.
 
 # Link to Deployed Application:
 
@@ -40,7 +41,7 @@ https://wizard-mate.github.io/Homework-1/
 
 1. Screenshot of my completed HTML and CSS documents side by side.
 
-![Screenshot of my completed HTML and CSS documents side by side.](/assets/images/HTML-CSS-Image.png?raw=true "HTML CSS")
+![Screenshot of my completed HTML and CSS documents side by side.](/assets/images/HTML-CSS-Image2.png?raw=true "HTML CSS")
 
 2. Screenshot of the Website deployed as a GitHub Page.
 
